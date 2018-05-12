@@ -1,0 +1,26 @@
+_repo: The-Barrel-Mystery_42010
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42010-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Flynn, William J. (William James)
+    birthdate: 1867
+    gutenberg_agent_id: '41475'
+    url: http://www.gutenberg.org/2009/agents/41475
+description: ''
+gutenberg_issued: '2013-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: The Barrel Mystery
+url: http://www.gutenberg.org/ebooks/42010
